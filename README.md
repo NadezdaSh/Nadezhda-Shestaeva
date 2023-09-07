@@ -1,2 +1,2 @@
 # Nadezhda-Shestaeva
-Some Yandex Practicum Projects
+Portfolio of Some Yandex Practicum Projects
